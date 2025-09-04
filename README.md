@@ -1,0 +1,1 @@
+ConnectSphere is a modern, React-based social networking application designed to deliver an experience similar to popular social platforms. This project serves as a showcase of essential social media functionalities, built with scalability and user engagement in mind.
